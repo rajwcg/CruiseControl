@@ -10,7 +10,7 @@ namespace Factories
        private Cinema _cinema;
        public Cinema GetCinema(MovieProvider provider)
       {
-         
+         // Added comment 
            switch (provider)
            {
                case MovieProvider.WaveCinema:
