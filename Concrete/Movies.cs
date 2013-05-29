@@ -17,6 +17,7 @@ namespace Concrete
       public string CinemaName { get; set; }
       public string Synopsis { get; set; }
 	  public string PackShotImageUrl { get; set; }
+	   public string PackShotImageUrl { get; set; }
     }
 
 }
