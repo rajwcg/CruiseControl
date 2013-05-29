@@ -16,6 +16,7 @@ namespace Concrete
       public float ImdbRating { get; set; }
       public string CinemaName { get; set; }
       public string Synopsis { get; set; }
+	  public string PackShotImageUrl { get; set; }
     }
 
 }
